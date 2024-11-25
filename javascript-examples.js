@@ -64,7 +64,7 @@ console.log(greet("World")); // Hello, World!
 console.log(multiply(4, 5)); // 20
 console.log(doubled); // [2, 4, 6, 8, 10]
 console.log(evenNumbers); // [2, 4]
-console.log(sum); // 15
+
 
 const dog = new Dog("Rex");
 dog.speak(); // Rex barks!
