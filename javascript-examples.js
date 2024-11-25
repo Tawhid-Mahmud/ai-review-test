@@ -1,12 +1,3 @@
-// Basic variable declarations
-const name = "Alice";
-let age = 25;
-var oldStyle = "not recommended"; // var is older syntax
-
-// Functions
-function greet(name) {
-    return `Hello, ${name}!`;
-}
 
 // Arrow function
 const multiply = (a, b) => a * b;
