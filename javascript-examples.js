@@ -59,14 +59,6 @@ async function fetchUserData(userId) {
     }
 }
 
-// Event handling example
-document.addEventListener('DOMContentLoaded', () => {
-    const button = document.querySelector('#myButton');
-    button.addEventListener('click', () => {
-        console.log('Button clicked!');
-    });
-});
-
 // Example usage
 console.log(greet("World")); // Hello, World!
 console.log(multiply(4, 5)); // 20
